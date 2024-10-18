@@ -1,3 +1,0 @@
-# Lern-Periode-7
-
-
