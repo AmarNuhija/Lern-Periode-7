@@ -11,9 +11,11 @@
 
 ## 18.10.2024
 
+## Leit-Satz
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 30.4.2024
+## Für den 25.10.2024
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
