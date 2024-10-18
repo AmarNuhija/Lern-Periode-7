@@ -10,16 +10,17 @@
 2. Geeignete Projekte wären Projekte die gut basierend auf JavaScript sind oder allgemein immer wieder gerne würde ich C# aufholen. Doch eine kleine Website für ein Unternehmen zu gestalten würde mir auch sehr viel    spass zubereiten.
 
 ## 18.10.2024
-
 ## Leit-Satz
 
-✍️ Heute habe ich... (50-100 Wörter)
+Da wir die Abgabe des Webprojektes am 17.10 hatten und noch ein weiteres Modul am Montag, konnte ich mich heute voll und ganz aufs Left-Center-Right Game konzentrieren. Eigentlich habe ich das Projekt schon vor den Ferien angefangen, besser gesagt habe ich schonmal reingeschaut wie die UML aufgebaut ist. Das Spiel an sich ist einfach zu Spielen, doch das dann in Code umzuwandeln ist eher die komplexere Sache. Doch alles in einem hat mir das sehr Spass gemacht und ich hatte zum glück auch Laune das durchzuziehen.(86 Wörter)
+
 
 ## Für den 25.10.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Weiterhin für OOP lernen.
+- [ ] Reinarbeiten neues Modul Herr Colic.
+- [ ] Mini Projekt mit Windows Form (Simon Says).
+- [ ] OOP Kurs weiter in betracht ziehen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
