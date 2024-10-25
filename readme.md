@@ -22,6 +22,12 @@ Da wir die Abgabe des Webprojektes am 17.10 hatten und noch ein weiteres Modul a
 - [ ] Mini Projekt mit Windows Form (Simon Says).
 - [ ] OOP Kurs weiter in betracht ziehen.
 
+## 25.10.2024
+## Leit-Satz
+
+Heute habe ich daran gearbeitet, OOP weiterhin in Blick zu behalten und mir Videos dabei angeschaut, die mir extrem weiterhalfen. Durch diverse Videos die man auf Youtube oder sonst wo sieht, kann man vieles draus lernen den jeder einzelne hat seine eigene Art etwas zu gestalten, nur so konnte ich mir das am besten eingravieren lassen. Ich habe mir vorgenommen mehr Abreit in OOP zu investieren. Dabei habe ich auch ein neues kruzes und einfaches Projekt hergestellt(BankSystemOOP).(77 Wörter).
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
