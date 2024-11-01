@@ -27,6 +27,13 @@ Da wir die Abgabe des Webprojektes am 17.10 hatten und noch ein weiteres Modul a
 
 Heute habe ich daran gearbeitet, OOP weiterhin in Blick zu behalten und mir Videos dabei angeschaut, die mir extrem weiterhalfen. Durch diverse Videos die man auf Youtube oder sonst wo sieht, kann man vieles draus lernen den jeder einzelne hat seine eigene Art etwas zu gestalten, nur so konnte ich mir das am besten eingravieren lassen. Ich habe mir vorgenommen mehr Abreit in OOP zu investieren. Dabei habe ich auch ein neues kruzes und einfaches Projekt hergestellt(BankSystemOOP).(77 Wörter).
 
+## Für den 01.10.2024
+
+- [ ] OOP Lernvideos anschauen
+- [ ] Projekt weiter implementieren
+- [ ] OBA durcharebiten, Schritt für Schritt
+- [ ] Auf GitHub Projekte suchen
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
