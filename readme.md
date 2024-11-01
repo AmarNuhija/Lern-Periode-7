@@ -17,10 +17,10 @@ Da wir die Abgabe des Webprojektes am 17.10 hatten und noch ein weiteres Modul a
 
 ## Für den 25.10.2024
 
-- [ ] Weiterhin für OOP lernen.
-- [ ] Reinarbeiten neues Modul Herr Colic.
-- [ ] Mini Projekt mit Windows Form (Simon Says).
-- [ ] OOP Kurs weiter in betracht ziehen.
+- [x] Weiterhin für OOP lernen.
+- [x] Reinarbeiten neues Modul Herr Colic.
+- [x] Mini Projekt mit Windows Form (Simon Says).
+- [x] OOP Kurs weiter in betracht ziehen.
 
 ## 25.10.2024
 ## Leit-Satz
