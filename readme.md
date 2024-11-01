@@ -34,6 +34,11 @@ Heute habe ich daran gearbeitet, OOP weiterhin in Blick zu behalten und mir Vide
 - [ ] OBA durcharebiten, Schritt für Schritt
 - [ ] Auf GitHub Projekte suchen
 
+## 01.10.2024
+## Leit-Satz
+
+Heute habe ich mich darum gekümmert, das ich auch von anderen Lernvideos mehr Informationen sammeln kann, damit ich die Prüfung am Mittwoch korrekt und sicher abschliessen kann. Die meiste Zeit habe ich darin investiert, nicht zu programmieren sondern eher wie schon genannt die verschiedensten Lernvideos aus GitHub für C# zu finden. Dabei bin ich auf holfreiche Videos gestossen wie man zum Beispiel if-statements korrekt einsetzt oder auch foreach loops korrekt ausführt usw. Dann habe ich die OBA analyse weitergeführt, damit ich weiss und mir auch sicher sein kann das ich das Thema verstanden habe. Dabei habe ich die UML nebendran gehalten und ein zu eins die einzelnen Variabel, Konstruktoren und Methoden nachgegangen. Natürlich werde ich auch viel Zeit am Wochenende investieren.(121 Wörter)
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
