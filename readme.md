@@ -39,6 +39,44 @@ Heute habe ich daran gearbeitet, OOP weiterhin in Blick zu behalten und mir Vide
 
 Heute habe ich mich darum gekümmert, das ich auch von anderen Lernvideos mehr Informationen sammeln kann, damit ich die Prüfung am Mittwoch korrekt und sicher abschliessen kann. Die meiste Zeit habe ich darin investiert, nicht zu programmieren sondern eher wie schon genannt die verschiedensten Lernvideos aus GitHub für C# zu finden. Dabei bin ich auf holfreiche Videos gestossen wie man zum Beispiel if-statements korrekt einsetzt oder auch foreach loops korrekt ausführt usw. Dann habe ich die OBA analyse weitergeführt, damit ich weiss und mir auch sicher sein kann das ich das Thema verstanden habe. Dabei habe ich die UML nebendran gehalten und ein zu eins die einzelnen Variabel, Konstruktoren und Methoden nachgegangen. Natürlich werde ich auch viel Zeit am Wochenende investieren.(121 Wörter)
 
+## Für den 08.11.2024
+
+- [ ] JavaScript Aufgaben (DOM).
+- [ ] Modul 346 erarbeiten.
+- [ ] Banksystem mit OOP.
+- [ ] Lernvideos JavaScript
+
+## 08.11.2024
+## Leit-Satz
+
+Heute habe ich mich darum gekümmert, das ich die Aufgaben vom Donnerstag korrekt absolviere. Den ich war mit meiner Leistung nicht ganz zufrieden und habe am Anfang des Moduls 294 zu viel ChatGPT benutzt und mich nicht selbst ans Zeug gelegt. Das wollte ich so gut wie möglich an diesem Freitag nachholen. Im Modul 346 habe ich einfach noch die offen stehenden Videos zu den Aufträgen fertig geschaut. Das Erstellen des Banksystems mit OOP ging viel einfacher nach diesen 10 Blöcken Vorbereitung. Die Lernvideos haben mir wirklich weitergeholfen, JavaScript einfach besser zu verstehen. (93 Wörter).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
