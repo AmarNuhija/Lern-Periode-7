@@ -65,6 +65,10 @@ Heute habe ich mich darum gekümmert, das ich die Aufgaben vom Donnerstag korrek
 - [ ] Aufgaben vom Modul 450 (Tests)
 - [ ] Website Programmieren mit JavaScript
 
+## 22.11.2024
+## Leit-Satz
+
+Heute wollte ich unbedingt die Aufgaben vom Montag erledigen die ich nicht gemacht habe....
 
 
 
