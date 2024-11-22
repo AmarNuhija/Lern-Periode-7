@@ -9,6 +9,13 @@
    wichtig, vor allem weil es einfach ein Kernmodul ist, dort muss ich mir jetzt wirklich mühe geben um mir eine Gute Note zu holen.
 2. Geeignete Projekte wären Projekte die gut basierend auf JavaScript sind oder allgemein immer wieder gerne würde ich C# aufholen. Doch eine kleine Website für ein Unternehmen zu gestalten würde mir auch sehr viel spass zubereiten.
 
+## Zielsetzung Noten:
+
+# Modul 346 5 - 5.5
+# Modul 450 4.5 - 5
+# Modul 294 5 - 5.5
+
+
 ## 18.10.2024
 ## Leit-Satz
 
