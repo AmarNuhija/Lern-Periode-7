@@ -60,7 +60,7 @@ Heute habe ich mich darum gekümmert, das ich die Aufgaben vom Donnerstag korrek
 
 ## Für den 22.11.2024 (Eine Wocheübersprungen da ich beim Arzt war)
 
-- [ ] Modul 346
+- [ ] Modul 346 (Aufgabe 0715)
 - [ ] JSON und JavaScript von Donnerstag
 - [ ] Aufgaben vom Modul 450 (Tests)
 - [ ] Website Programmieren mit JavaScript
