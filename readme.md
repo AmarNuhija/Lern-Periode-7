@@ -7,7 +7,7 @@
 1. Ich bin sehr zufrieden im moment mit meinen Noten, mal sehen was Modul 322 und 231 sagen aber ich denke dort habe ich sehr gut abgeschnitten. Ich denke mal das ich im Modul 231 sehr stark war und auch       
    gleichzeitig in Modul 322, da mir einfach Webapplikationen spass machen und ich wirklich gerne in diesen Bereichen auch programmiere. Im moment bin ich bei keinen ungenügend. Auf jeden Fall ist Modul 320 sehr 
    wichtig, vor allem weil es einfach ein Kernmodul ist, dort muss ich mir jetzt wirklich mühe geben um mir eine Gute Note zu holen.
-2. Geeignete Projekte wären Projekte die gut basierend auf JavaScript sind oder allgemein immer wieder gerne würde ich C# aufholen. Doch eine kleine Website für ein Unternehmen zu gestalten würde mir auch sehr viel    spass zubereiten.
+2. Geeignete Projekte wären Projekte die gut basierend auf JavaScript sind oder allgemein immer wieder gerne würde ich C# aufholen. Doch eine kleine Website für ein Unternehmen zu gestalten würde mir auch sehr viel spass zubereiten.
 
 ## 18.10.2024
 ## Leit-Satz
@@ -41,15 +41,22 @@ Heute habe ich mich darum gekümmert, das ich auch von anderen Lernvideos mehr I
 
 ## Für den 08.11.2024
 
-- [ ] JavaScript Aufgaben (DOM).
-- [ ] Modul 346 erarbeiten.
-- [ ] Banksystem mit OOP.
-- [ ] Lernvideos JavaScript
+- [x] JavaScript Aufgaben (DOM).
+- [x] Modul 346 erarbeiten.
+- [x] Banksystem mit OOP.
+- [x] Lernvideos JavaScript
 
 ## 08.11.2024
 ## Leit-Satz
 
 Heute habe ich mich darum gekümmert, das ich die Aufgaben vom Donnerstag korrekt absolviere. Den ich war mit meiner Leistung nicht ganz zufrieden und habe am Anfang des Moduls 294 zu viel ChatGPT benutzt und mich nicht selbst ans Zeug gelegt. Das wollte ich so gut wie möglich an diesem Freitag nachholen. Im Modul 346 habe ich einfach noch die offen stehenden Videos zu den Aufträgen fertig geschaut. Das Erstellen des Banksystems mit OOP ging viel einfacher nach diesen 10 Blöcken Vorbereitung. Die Lernvideos haben mir wirklich weitergeholfen, JavaScript einfach besser zu verstehen. (93 Wörter).
+
+## Für den 22.11.2024 (Eine Wocheübersprungen da ich beim Arzt war)
+
+- [ ] Modul 346
+- [ ] JSON und JavaScript von Donnerstag
+- [ ] Aufgaben vom Modul 450 (Tests)
+- [ ] Website Programmieren mit JavaScript
 
 
 
