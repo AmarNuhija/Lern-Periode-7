@@ -80,6 +80,8 @@ Heute wollte ich unbedingt die Aufgaben vom Montag erledigen die ich nicht gemac
 ## 29.11.2024
 ## Leit-Satz
 
+Heute habe ich die Aufgaben die ich Gestern bei der LB nicht gemacht haben, erledigt. Im allgemeinen macht mir das sehr spass an einer Website zu arbeiten, vor allem wenn man viel Fortschritte sieht und weiss, dass es eine spannende Webstie wird. Was ich allerdings noch gemacht haben wollte, ist die interaktion mit dem Anmelden mit Username und Passwort, bevor man überhaupt mein System benutzen kann. Zum Glück habe ich gestern all die Commands für die Website sdchon gemacht gehabt, das war eher ein bisschen anstrengender als das Codieren der Website, da ich die Commands im Terminal nur auf meinen PC schon erledigt habe und nicht über meinen Laptop. Doch das war sehr schnell erledigt, musste nochmals die Aufgaben vor der LB rausholen, aber das ging schnell. BlackJack wird ein Projekt sein, das ich imnmer wieder ändern, verbessern oder neu umschreiben werde. Das macht mir vor allem auf der Konsole sehr viel spass. Cloud Modul mussten wir bei Alan machen da ich nicht mehr so viel Kapital auf AWS habe.(170 Wörter)
+
 
 
 
