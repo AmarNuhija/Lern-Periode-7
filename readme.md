@@ -72,9 +72,9 @@ Heute wollte ich unbedingt die Aufgaben vom Montag erledigen die ich nicht gemac
 
 ## Für den 29.11.2024
 
-- [ ] Website Modul 294 mit JS
-- [ ] Cloud Modul LB weiterarbeiten
-- [ ] BlackJack verbessern
+- [x] Website Modul 294 mit JS
+- [x] Cloud Modul LB weiterarbeiten
+- [x] BlackJack verbessern
 - [ ] Modul 450 Mocking Thema wieder anschauen
 
 ## 29.11.2024
