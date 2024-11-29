@@ -70,6 +70,16 @@ Heute habe ich mich darum gekümmert, das ich die Aufgaben vom Donnerstag korrek
 
 Heute wollte ich unbedingt die Aufgaben vom Montag erledigen die ich nicht gemacht habe. Das waren eines der wichtigsten Aufgaben, für die man sich für die LB vorbereitet. Allgemein mal ausserhalb vom ganzen Programmieren auf die Cloud usw. drauf zu schauen, ist sehr spannend und ziemlich umfangreich. Vor allem AWS. Es macht mir wirklich spass und ich weiss das ich auch das Zeug dazu habe, diese Administrativen, Cloud-Basierenden Aufgaben zu erledigen. Die EC2 instanz mit der Datenbank zu verbinden hat mir keine wirkliche Sorge vorbereitet. Doch ich bin leider nicht dazu gekommen noch die Datenbank zu öffnen und darin auch Werte einzufügen. Was ich auch gemacht habe ist schon mal den Start in die Web-LB 294. HTML und CSS habe ich langsam aber sicher drauf, doch JavaScript wird mir wahrscheinlich die meisten Sorgen vorbereiten. Wie ich mich vor dies vorbereite? Lernvideos und mögliche Präsentationen. Ich habe vor eine Website zu implementieren, indem man diverse Musiker sieht und ihre Besten oder wichtigsten Lines sei es Rap oder Songs, sieht. (168 Wörter).
 
+## Für den 29.11.2024
+
+- [ ] Website Modul 294 mit JS
+- [ ] Cloud Modul LB weiterarbeiten
+- [ ] BlackJack verbessern
+- [ ] Modul 450 Mocking Thema wieder anschauen
+
+## 29.11.2024
+## Leit-Satz
+
 
 
 
