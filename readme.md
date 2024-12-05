@@ -84,10 +84,10 @@ Heute habe ich die Aufgaben die ich Gestern bei der LB nicht gemacht haben, erle
 
 ## Für den 06.12.2024
 
-- [x] BlackJack GeldSystem überarbeiten 
-- [x] Modul 450 Vorbereitungen
-- [x] PferdeRennen gab es auch ein Problem beim GeldSystem (Überarbeiten) 
-- [x] Website Überarbeiten (Ich habe ein Music Lyric finder implementiert)
+- [ ] BlackJack GeldSystem überarbeiten 
+- [ ] Modul 450 Vorbereitungen
+- [ ] PferdeRennen gab es auch ein Problem beim GeldSystem (Überarbeiten) 
+- [ ] Website Überarbeiten (Ich habe ein Music Lyric finder implementiert)
 
 
 
