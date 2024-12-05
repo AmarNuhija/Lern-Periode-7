@@ -36,10 +36,10 @@ Heute habe ich daran gearbeitet, OOP weiterhin in Blick zu behalten und mir Vide
 
 ## Für den 01.10.2024
 
-- [ ] OOP Lernvideos anschauen
-- [ ] Projekt weiter implementieren
-- [ ] OBA durcharebiten, Schritt für Schritt
-- [ ] Auf GitHub Projekte suchen
+- [x] OOP Lernvideos anschauen
+- [x] Projekt weiter implementieren
+- [x] OBA durcharebiten, Schritt für Schritt
+- [x] Auf GitHub Projekte suchen
 
 ## 01.11.2024
 ## Leit-Satz
