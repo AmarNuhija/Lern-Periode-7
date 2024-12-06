@@ -89,6 +89,10 @@ Heute habe ich die Aufgaben die ich Gestern bei der LB nicht gemacht haben, erle
 - [ ] PferdeRennen gab es auch ein Problem beim GeldSystem (Überarbeiten) 
 - [ ] Website Überarbeiten (Ich habe ein Music Lyric finder implementiert)
 
+## 06.12.2024
+## Leit-Satz
+
+Für diese Woche war echt viel los. Direkt zwei LB's hintereinander abzugeben hat nicht sehr viel spass gemacht. Doch was will man machen. Trotzdem denke ich das es ganz gut lief. Für Heute habe ich mich entschieden weiter an meinem BlackJack System zu arbeiten. Das hat mir wirklich sehr viel spass gemacht. Das einzige Problem was ich noch hatte war, das sich der Geldeinsatz beim double, nicht verdoppelt wenn man gewinnt oder auch verliert. Doch heute aber erst später in der Session, ist mir aufgefallen das man die Dealers Hands im späteren Spielverlauf nicht mehr sehen kann, sondern nur bei der ersten Spielaktion. Doch das wird wohl ein Problem für nächste Woche sein, das ich im Lernatelier lösen werde. Alles in einem hatte das PferdeRennen Spiel noch eine kleine Macke mit dem Geldeinsatz, doch das konnte ich einfach von BlackJackSpiel einleiten und somit viel einfacher lösen. Was ich aber auch noch versuche werde zu überarbeiten ist, das man auch wie bei BlackJack ein Startkapital bekommt und das Spiel endlos weiterspielen kann. Dazu will ich auch versuchen, das mehrere Spieler gleichzeitig ins Spiel beitreten können, was ein Chaos auf so einer unübersichtlichen Konsole werden kann, aber man kann da bestimmt ein bisschen in C# mit Farben rumspielen.
 
 
 
