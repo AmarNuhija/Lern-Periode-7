@@ -98,7 +98,7 @@ Für diese Woche war echt viel los. Direkt zwei LB's hintereinander abzugeben ha
 
 - [ ] BlackJack weitere Spieler hinzufügen
 - [ ] BlackJack weitere Spieler hinzufügen
-- [ ] PferdeRennen Wetteinsätze und Startkapital
+- [x] PferdeRennen Wetteinsätze und Startkapital
 - [ ] Modul 450 Vorbereitung 
 
 
