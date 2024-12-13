@@ -24,7 +24,7 @@ public class Pferderennen
 
         foreach (var pferd in pferde)
         {
-            positionen[pferd] = 0; // Startposition jedes Pferdes ist 0
+            positionen[pferd] = 0; // Startposition ist 0
         }
     }
 
@@ -42,7 +42,7 @@ public class Pferderennen
         Console.WriteLine($"Sie haben {einsatz:C} auf {gewaehltesPferd.Name} gesetzt.");
     }
 
-    // Methode, um das Rennen zu simulieren und den Live-Ticker zu zeigen
+    // Methode, um das Rennen zu simulieren und den "Live-Ticker" zu zeigen
     public void RennenStarten()
     {
         Console.WriteLine("Das Rennen beginnt!\n");
@@ -78,9 +78,9 @@ public class Pferderennen
                 }
             }
 
-            // Kurze Pause, um die Simulation langsamer darzustellen
+            // Sleep damit das Spiel nicht so schnell vorbei geht
             Thread.Sleep(500);
-            // Das Rennen läuft solange, bis alle Pferde das Ziel erreicht haben
+            // Wenn alle Pferde das Ziel erreicht haben wird das Spiel beendet
             if (ergebnisListe.Count == pferde.Count)
             {
                 rennenLaufend = false;
