@@ -96,8 +96,8 @@ Für diese Woche war echt viel los. Direkt zwei LB's hintereinander abzugeben ha
 
 ## Für den 13.12.2024
 
-- [ ] BlackJack weitere Spieler hinzufügen
-- [ ] BlackJack weitere Spieler hinzufügen
+- [ ] BlackJack weitere Spieler hinzufügen (geändert zu PferdeRennen)
+- [ ] BlackJack weitere Spieler hinzufügen (geändert zu PferdeRennen)
 - [x] PferdeRennen Wetteinsätze und Startkapital
 - [ ] Modul 450 Vorbereitung 
 
