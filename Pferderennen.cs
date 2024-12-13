@@ -1,7 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
+
 public class Pferderennen
 {
     private List<Pferd> pferde;
@@ -78,8 +79,7 @@ public class Pferderennen
             }
 
             // Kurze Pause, um die Simulation langsamer darzustellen
-            Thread.Sleep(300);
-
+            Thread.Sleep(500);
             // Das Rennen läuft solange, bis alle Pferde das Ziel erreicht haben
             if (ergebnisListe.Count == pferde.Count)
             {
@@ -108,4 +108,19 @@ public class Pferderennen
             Console.WriteLine("\nLeider haben Sie verloren.");
         }
     }
+
+    // Methode, um das Rennen zurückzusetzen
+    public void ResetRennen()
+    {
+        // Positionen der Pferde zurücksetzen
+        foreach (var pferd in pferde)
+        {
+            positionen[pferd] = 0;
+        }
+
+        // Ergebnisliste und Sieger zurücksetzen
+        ergebnisListe.Clear();
+        Sieger = null;
+    }
+
 }
