@@ -110,9 +110,9 @@ Heute war es so das ich ein neues Problem begegnet bin. Zum einen habe ich beim 
 
 ## Für den 20.12.2024
 
-- [ ] PferdeRennen Quoten verändern sich
-- [ ] PferdeRennen zufällige Quote erstellen lassen zwischen 1-4
-- [ ] Modul 450 LB
+- [X] PferdeRennen Quoten verändern sich
+- [X] PferdeRennen zufällige Quote erstellen lassen zwischen 1-4
+- [X] Modul 450 LB
 - [ ] BlackJack weitere Spieler hinzufügen
 
 
