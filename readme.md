@@ -114,3 +114,8 @@ Heute war es so das ich ein neues Problem begegnet bin. Zum einen habe ich beim 
 - [X] PferdeRennen zufällige Quote erstellen lassen zwischen 1-4
 - [X] Modul 450 LB
 - [ ] BlackJack weitere Spieler hinzufügen
+
+## 20.12.2024
+## Leit-Satz
+
+Heute habe ich schlicht die Anweisungen zur LB weiter verarbeitet. Ich wollte noch das was ich am Mittwoch nicht fertig bekommen habe und nicht ganz zufrieden war, heute fertig gestellt und mich auch zufrieden gestellt. Doch leider bin ich auch diese Woche nicht zum BlackJack System gekommen. Leider habe ich auch wieder vergessen meinen USB-Stick mitzunehmen, was auch ein Problem war. Doch ich werde BlackJack nebst der LB, versuchen weiter zu verarbeiten. PferdeRennen mit zufälligen Quoten war auch nicht das Problem. Es war recht einfach. In der LB habe ich heute noch die Interface Klasse hinzugefügt und den restlichen Code, was noch gefehlt hat, damit mein Buchungssystem in meinem Hotel klappt. Mit den Mocking Klassen bin ich leider nicht so weit gekommen, aber ich habe schon das Klassendiagram überarbeitet und die Interface (IRoomManager) Klasse hinzugefügt. (135 Wörter)
